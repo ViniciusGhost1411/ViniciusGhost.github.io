@@ -1,0 +1,38 @@
+body{
+    background-color: aqua;
+    font-family: monospace;
+    text-align: center;
+}
+section{
+    background-color: blueviolet;
+    height: max-content;
+    width: max-content;
+    margin: auto;
+    border-radius: 5%;
+    padding: 2%;
+}
+input#P1{
+    width: 140px;
+    margin-bottom: 2%;
+    background-color: transparent;
+}
+input#P2{
+    width: 140px;
+    margin-bottom: 2%;
+    background-color: transparent;
+}
+input#bjogar{
+    margin-top: 2%;
+    backface-visibility: hidden;
+}
+div{
+    background-color: black;
+    cursor: pointer;
+    color: white;
+    float: left;
+    border-radius: 50%;
+    height: 46px;
+    margin: 2px;
+    width: 46px;
+}
+input#bjogar{cursor: pointer;}
